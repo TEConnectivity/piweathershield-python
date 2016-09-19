@@ -4,7 +4,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(  name='pi-weather-shield',
-    version='0.0.1',
+    version='0.0.2',
     author='William Markezana',
     author_email='william.markezana@te.com',
     url='https://github.com/TEConnectivity/piweathershield-python',
