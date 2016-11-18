@@ -7,7 +7,7 @@ This library provides easy access to all the sensors featured by the TE Connecti
 * [HTU21D](http://www.te.com/usa-en/product-CAT-HSC0004.html) (Temperature and Humidity)
 * [MS5637](http://www.te.com/usa-en/product-CAT-BLPS0037.html) (Temperature and Pressure)
 * [TSYS01](http://www.te.com/usa-en/product-G-NICO-018.html) (Temperature)
-* [TSD305]() (Temperature and Contactless Temperature)
+* [TSD305](http://www.te.com/usa-en/product-G-TPMO-101.html) (Temperature and Contactless Temperature)
 
 
 Installation
